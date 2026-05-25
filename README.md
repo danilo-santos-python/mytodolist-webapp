@@ -4,6 +4,14 @@ Uma aplicação funcional de lista de tarefas (**To-Do List**) desenvolvida em *
 
 ---
 
+## 📷 Preview
+
+<p align="center">
+  <img src="preview.png" width="700">
+</p>
+
+---
+
 ## 🚀 Demonstração Online
 
 🔗 [Acesse o app hospedado no Streamlit](https://mytodolist-webapp-aifjfxds2vmapwp2ykpohq.streamlit.app/)
