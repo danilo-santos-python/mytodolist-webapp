@@ -12,6 +12,7 @@ Uma aplicação funcional de lista de tarefas (**To-Do List**) desenvolvida em *
 
 ## 🧩 Estrutura do Projeto
 
+```text
 📂 mytodolist-webapp/  
 │  
 ├── 📄 Home.py — Código principal da interface Streamlit  
@@ -23,6 +24,7 @@ Uma aplicação funcional de lista de tarefas (**To-Do List**) desenvolvida em *
 │  
 └── 📂 pages/  
 　　└── 📄 Sobre.py — Página adicional "Sobre" do aplicativo  
+```
 
 ---
 
