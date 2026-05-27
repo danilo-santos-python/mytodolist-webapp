@@ -1,4 +1,4 @@
-# 📝 MyTodolist WebApp em Python (Streamlit)
+# 📝 Todolist WebApp em Python (Streamlit)
 
 Uma aplicação funcional de lista de tarefas (**To-Do List**) desenvolvida em **Python**, utilizando **Streamlit** como base principal. O usuário insere uma tarefa em um campo de texto e ela é imediatamente adicionada à lista exibida na tela. Além disso, todas as tarefas são salvas automaticamente em um arquivo de texto externo que acompanha o aplicativo, garantindo persistência dos dados.
 
@@ -14,19 +14,20 @@ Uma aplicação funcional de lista de tarefas (**To-Do List**) desenvolvida em *
 
 ## 🚀 Demonstração Online
 
-🔗 [Acesse o app hospedado no Streamlit](https://mytodolist-webapp-aifjfxds2vmapwp2ykpohq.streamlit.app/)
+🔗 [Acesse o app hospedado no Streamlit](https://todolist-webapp-danilosantosdev.streamlit.app//)
 
 ---
 
 ## 🧩 Estrutura do Projeto
 
 ```text
-📂 mytodolist-webapp/  
+📂 todolist-webapp/  
 │  
 ├── 📄 Home.py — Código principal da interface Streamlit  
 ├── 📄 functions.py — Funções responsáveis por adicionar, salvar e gerenciar tarefas  
 ├── 📄 todos.txt — Arquivo de texto onde as tarefas são armazenadas  
-├── 📄 requirements.txt — Dependências Python do projeto  
+├── 📄 requirements.txt — Dependências Python do projeto
+├── 📄 preview.png — Imagem do app aberto
 ├── 📄 README.md — Documentação do projeto
 ├── 📄 LICENSE — Licença MIT
 │  
@@ -48,7 +49,7 @@ Uma aplicação funcional de lista de tarefas (**To-Do List**) desenvolvida em *
 ## 🖥️ Como Executar o Projeto
 
 **1️⃣ Instalar as dependências**  
-No terminal do editor (recomendado **PyCharm**), execute:  
+No terminal do editor, execute:  
 ```bash
 pip install -r requirements.txt
 ```
@@ -76,13 +77,14 @@ Um link será gerado no terminal. Clique nele (ou copie e cole no navegador) par
 Distribuído sob a **Licença MIT**.
 
 Este projeto é open source e pode ser utilizado livremente para fins educacionais e de aprendizado.
+
 ---
 
 ## 👨‍💻 Autor
 
 **Danilo Santos**  
-🐙 [GitHub](https://github.com/danilo-santos-python)  
-🌐 [Repositório do Projeto](https://github.com/danilo-santos-python/mytodolist-webapp.git)
+🐙 GitHub: https://github.com/danilo-santos-python  
+🌐 Repositório: https://github.com/danilo-santos-python/todolist-webapp
 
 ---
 
