@@ -1,7 +1,7 @@
 # 📝 Todolist WebApp em Python (Streamlit)
 
 ![Python](https://img.shields.io/badge/python-3.13-blue)
-![UI](https://img.shields.io/badge/UI-FreeSimpleGUI-9cf)
+![UI](https://img.shields.io/badge/UI-Streamlit-9cf)
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
