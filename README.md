@@ -1,5 +1,10 @@
 # 📝 Todolist WebApp em Python (Streamlit)
 
+![Python](https://img.shields.io/badge/python-3.13-blue)
+![UI](https://img.shields.io/badge/UI-FreeSimpleGUI-9cf)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 Uma aplicação funcional de lista de tarefas (**To-Do List**) desenvolvida em **Python**, utilizando **Streamlit** como base principal. O usuário insere uma tarefa em um campo de texto e ela é imediatamente adicionada à lista exibida na tela. Além disso, todas as tarefas são salvas automaticamente em um arquivo de texto externo que acompanha o aplicativo, garantindo persistência dos dados.
 
 ---
